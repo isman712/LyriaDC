@@ -1,8 +1,3 @@
-
-¡Entendido! Aquí tienes una versión mejorada con emojis:
-
----
-
 # LyriaDC - 🎨✨ Copia y pega emojis de Discord fácilmente 🚀🔥
 
 ## Descargas e Instalación
@@ -26,6 +21,3 @@ Agrega el bot de Discord a tus servidores para utilizar los emojis con LyriaDC.
 **Nota:** Asegúrate de tener permisos suficientes en tus servidores de Discord para agregar bots.
 
 **LyriaDC te permite usar emojis animados sin necesidad de discord nitro y de manera 100% legal sin programas que modifican el cliente de discord y pueden traer problemas a los datos de tu cuenta de discord** 🥳👌👏
-
---- 
-
